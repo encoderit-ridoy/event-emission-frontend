@@ -14,8 +14,6 @@ import Quill from 'quill'
 import { vuetify } from '@/plugins/vuetify'
 import { createI18n, hotUpdateLocale } from '@/plugins/vue-i18n'
 import Vuetify from 'vuetify/lib'
-import dotenv from 'dotenv'
-dotenv.config({ path: '.env.production' })
 
 window.Quill = Quill
 
