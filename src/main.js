@@ -1,4 +1,5 @@
-import '@/assets/css/tailwind.css'
+// import '@/assets/css/tailwind.css'
+import './assets/css/tailwind.css'
 
 import Vue from 'vue'
 import VueApexCharts from 'vue-apexcharts'
